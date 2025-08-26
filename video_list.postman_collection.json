@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "0a19e696-95bd-4918-b6b2-db671480b45a",
+		"name": "video list",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14183326",
+		"_collection_link": "https://restless-capsule-835977.postman.co/workspace/test~236ee2a5-4e4f-41cc-b048-59d538d21998/collection/14183326-0a19e696-95bd-4918-b6b2-db671480b45a?action=share&source=collection_link&creator=14183326"
+	},
+	"item": [
+		{
+			"name": "List videos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Create",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "show",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
